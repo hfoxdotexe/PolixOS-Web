@@ -1,2 +1,2 @@
 TEXT "Hello, World!" POS 0, 0
-TEXT "This is a website on the TermOS Website server." POS, 0, 1
+TEXT "This is a website on the TermOS Website server!" POS, 0, 1
